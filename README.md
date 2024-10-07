@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN, AWS Services, Best Coding Practices**
 
-- 📫 How to reach me **kgee9628@gmail.com**
+- 📫 How to reach me **muhammadazharsaeed1@gmail.com**
 
 - 📄 Know about my experiences [azharsaeedqadri.github.io](azharsaeedqadri.github.io)
 
