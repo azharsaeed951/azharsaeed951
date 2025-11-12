@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **muhammadazharsaeed1@gmail.com**
 
-- 📄 Know about my experiences [azharsaeedqadri.github.io](azharsaeedqadri.github.io)
+- 📄 Know about my experiences [azharsaeedqadri.github.io](https://azharsaeedqadri.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
